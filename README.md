@@ -1,4 +1,4 @@
 canvas-watermark
 ================
 
-Watermark image using canvas
+Watermark image using canvas and kineticjs
